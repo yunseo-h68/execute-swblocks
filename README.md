@@ -1,7 +1,8 @@
 # Execute-swblocks
 
-FileList.txt에 기록된 S/W들이 죽으면 계속해서 살리는 Application
-(DSM 리눅스프로그래밍 2학년 1학기 수행과제)
+FileList.txt에 기록된 S/W들이 죽으면 계속해서 살리는 프로그램
+
+- DSM 리눅스프로그래밍 2학년 1학기 수행과제
 
 ## Build and Run
 
