@@ -36,8 +36,6 @@ static void swStartInfoSet(pid_t pid, struct SwStartInfo* swStartInfo)
 int swInitStart(int swBlockCount, struct SwInfo* swInfos, struct SwStartInfo* swStartInfos)
 {
 	int i;
-	char temp[BUFSIZ];
-	getcwd(temp, BUFSIZ);
 
 	pid_t pid;
 	for(i = 0; i < swBlockCount; i++) {
